@@ -1,6 +1,6 @@
 {
   "name": "mm_crypto",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "这是超级美眉模板消息加解密模块，用于微信、MM应用的加密解密",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/qiuwenwu/mm_crypto#readme",
   "dependencies": {
-    "mm_expand": "^1.3.7"
+    "mm_expand": "^1.3.9"
   },
   "devDependencies": {}
 }
